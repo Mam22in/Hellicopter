@@ -1,0 +1,29 @@
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.Form1.resources
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.Properties.Resources.resources
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.csproj.GenerateResource.Cache
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.csprojResolveAssemblyReference.cache
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\Bennour_Helicopter.exe
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\Bennour_Helicopter.pdb
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.dll
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.GLControl.dll
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.pdb
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.xml
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.GLControl.xml
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.exe
+C:\Users\userdoc\Desktop\Visual works\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.pdb
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\Bennour_Helicopter.exe
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\Bennour_Helicopter.pdb
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.Form1.resources
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.Properties.Resources.resources
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.csproj.GenerateResource.cache
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.csproj.CoreCompileInputs.cache
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.csproj.CopyComplete
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.exe
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.pdb
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.dll
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.pdb
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.xml
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.dll.config
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Devimam1\Desktop\computerGraphics\Bennour_Helicopter\Bennour_Helicopter\Bennour_Helicopter\obj\x86\Debug\Bennour_Helicopter.csprojAssemblyReference.cache
